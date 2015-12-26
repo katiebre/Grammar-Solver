@@ -1,0 +1,11 @@
+color::= red | orange | yellow | green | blue | indigo | violet | purple | white
+place::= heavens | mountaintop | rainforest | desert | moon | moon | temple
+verbs::= washes | overcomes | overwhelms | incapacitates | amazes | changes
+feeling::= sensation | feeling | impression | awareness | perception
+person::= you | me | us | them
+phrase1::= as
+aaa::= of
+bbb::= over
+phrase2::= the
+adjective::= desolate | endless | peaceful | unending | limitless | earthen | alien
+sentence::= phrase2 color place verbs person phrase1 phrase2 feeling aaa adjective feeling verbs person
